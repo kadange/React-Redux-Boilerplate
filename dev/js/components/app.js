@@ -5,6 +5,7 @@ require('../../scss/style.scss');
 const App = () => (
     <div>
         <h2>User List:</h2>
+        <UserList />
         <hr/>
         <h2>User Details:</h2>
     </div>
